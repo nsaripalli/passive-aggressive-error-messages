@@ -10,7 +10,7 @@ Example:
 ValueError: could not convert string to float: 'Adsfas9232'
 How's that CS degree working out for you?`
 
-There are two options on how you want your passive aggressive error messages delivered and a function to reset it.
+There are two options on how you want your passive aggressive error messages delivered and one function to reset back to the default error messages.
 
 In error_messages_handler.py there are three functions:
 1. regular_error_messages_and_print_passive_aggresive
