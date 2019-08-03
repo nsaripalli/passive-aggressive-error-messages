@@ -18,7 +18,7 @@ In error_messages_handler.py there are three functions:
     error messages will be delivered via standard out
 
 2. regular_error_messages_includes_passive_aggresive
-    * The passive aggressive messages will be added on to the normal error messages in standard out
+    * The passive aggressive messages will be added on to the normal error messages in standard error
 
 3. reset_error_messages
     * This resets the error messaging system back to the python default error messages. This will reset
